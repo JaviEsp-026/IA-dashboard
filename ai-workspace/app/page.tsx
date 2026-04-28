@@ -57,8 +57,7 @@ export default function Home() {
       }
     }>
       <h1>ChatBot IA {nombre}</h1>
-
-
+      
       <div>
         <ul>
           {messages.map((mensaje, index) => (
